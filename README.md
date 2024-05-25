@@ -6,14 +6,14 @@ Intraday trading bot coded and backtested on the QuantConnect Platform.
 
 Backtesting Results:
 
-Initial Equity ~ $100,000.00
-Trade Period ~ 01/01/2022 - 01/01/2024
-Final Equity ~ $102,483.25
-Fees ~ --$1.05
-Holdings ~ $99,815.10
-Net Profit ~ $2,722.65
-PSR ~ 7.068%
-Return ~ -2.48 %
+- Initial Equity ~ $100,000.00
+- Trade Period ~ 01/01/2022 - 01/01/2024
+- Final Equity ~ $102,483.25
+- Fees ~ --$1.05
+- Holdings ~ $99,815.10
+- Net Profit ~ $2,722.65
+- PSR ~ 7.068%
+- Return ~ -2.48 %
 
 
 How it works:
